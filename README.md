@@ -1,16 +1,18 @@
-# dev_fest
+# Dev Fest
 
-A new Flutter project.
+Dev Fest Application created in Flutter. This application is created to learn about creating application in flutter with bloc pattern.
 
-## Getting Started
+## Dependencies Used:
 
-This project is a starting point for a Flutter application.
+- [bloc](https://pub.dev/packages/bloc)
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [equatable](https://pub.dev/packages/equatable)
+- [http](https://pub.dev/packages/http)
+- [url_launcher](https://pub.dev/packages/url_launcher)
+- [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
+- [shared_preferences](https://pub.dev/packages/shared_preferences)
+- [cached_network_image](https://pub.dev/packages/cached_network_image)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Steps:
+1. Setup Initial Project with Required Dependencies.
+2. Add Required Images and Fonts.
